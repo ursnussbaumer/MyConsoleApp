@@ -10,7 +10,7 @@
 
             int zahl = Convert.ToInt32(eingabe);
 
-            int resultat = zahl + 1;
+            int resultat = zahl + 10;
 
             Console.WriteLine(resultat);
         }
